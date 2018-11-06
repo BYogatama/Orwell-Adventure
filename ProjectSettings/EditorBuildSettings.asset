@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuUtama.unity
+    guid: d75a4af93fdbcb244a49e4299e682386
+  - enabled: 1
+    path: Assets/Scenes/PilihLevel.unity
+    guid: 2a6763b26a70aa840a2471a93514f347
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 4789ff2efd7b6df418bc7ff53ee56631
+  - enabled: 1
+    path: Assets/Scenes/Level1Selesai.unity
+    guid: b17ce20392f83704680bbc940248e8e3
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: f23c028264e65094d8099d71fda94506
+  - enabled: 1
+    path: Assets/Scenes/Level2Selesai.unity
+    guid: dc78eb9acc90cc34190a532b55f623f7
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 587bb228b671b8a4ca8fc51123455618
+  - enabled: 1
+    path: Assets/Scenes/Level3Selesai.unity
+    guid: ca1cc4dbff724a846bf0efc43d4fc015
